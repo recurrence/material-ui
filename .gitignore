@@ -1,5 +1,4 @@
 # Exclude compiled files
-build
 /lib
 /.next
 /.eslintcache
